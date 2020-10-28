@@ -5,5 +5,5 @@ I also created a program that calculates the spectral density of a system
 
 ## Effect of Inversion Asymmetry on E vs. B and E vs. K
 Created using the Dirac Hamiltonian equation:
-<img src="https://render.githubusercontent.com/render/math?math=\mathcal{H} = \hbar v_f \begin{pmatrix} (k_x\sigma_y - k_y\sigma_x) & 0  \\ 0 & - (k_x\sigma_y - k_y\sigma_x)\end{pmatrix} \\[2mm] \hspace*{15mm}+ \begin{pmatrix} \Delta_i & 0  \\ 0 & - \Delta_i\end{pmatrix} \\[2mm] \hspace*{15mm} + \begin{pmatrix} 0 & \Delta_h  \\ \Delta_h & 0 \end{pmatrix} \\[2mm] \hspace*{15mm} + \begin{pmatrix} g^* \mu_B B_0 \sigma_z & 0  \\ 0 & g^* \mu_B B_0 \sigma_z \end{pmatrix}">
+<img src="">
 
